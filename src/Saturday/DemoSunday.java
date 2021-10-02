@@ -9,9 +9,9 @@ public class DemoSunday {
 	System.out.println("Demo Sunday.......");
 	System.out.println("xyz");
 	System.out.println("wael");
-	}{
-		pubic static addNum(int a, int b){
+	}
+		public static void addNum(int a, int b){
 			System.out.println(a+b);
 }
 }
-}
+
