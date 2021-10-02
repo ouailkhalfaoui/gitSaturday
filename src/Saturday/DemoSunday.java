@@ -7,6 +7,6 @@ public class DemoSunday {
 	System.out.println("wael");
 }
 	// coming from github
-	public static void addNum(inta, int b){
+	public static void addNum(int a, int b){
 		System.out.println(a+b);
 }
